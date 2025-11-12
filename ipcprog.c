@@ -67,4 +67,3 @@ int main(int argc, char *argv[]) {
 
     return 0;
 }
-//To implement the communication between  two processes using message queues API using C programming
